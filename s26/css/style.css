@@ -1,0 +1,77 @@
+/* Estilo general */
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form-container {
+  background: #fff;
+  padding: 20px 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  width: 320px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+  font-weight: bold;
+}
+
+/* Inputs y textarea */
+input, textarea {
+  width: 100%;
+  padding: 8px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  transition: 0.3s;
+  font-size: 14px;
+  resize: none;
+}
+
+/* Cuando el campo está enfocado */
+input:focus, textarea:focus {
+  border-color: #3399ff;
+  box-shadow: 0 0 5px rgba(51,153,255,0.5);
+}
+
+/* Campos inválidos */
+input:invalid, textarea:invalid {
+  border-color: #e63946;
+  background: #ffe8e8;
+}
+
+/* Campos válidos */
+input:valid, textarea:valid {
+  border-color: #2a9d8f;
+  background: #e8fff5;
+}
+
+/* Botón */
+button {
+  margin-top: 15px;
+  width: 100%;
+  padding: 10px;
+  background: #e63946; /* Nuevo color rojo */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #b71c1c; /* Color más oscuro al pasar el mouse */
+}
