@@ -1,23 +1,22 @@
-# Mi Proyecto de Página Web
+# Avances de la Unidad 2: Desarrollo Web
 
-Este proyecto es una página web estática diseñada para [describe el propósito del proyecto]. Su objetivo es [explica el objetivo].
+Este repositorio contiene los ejercicios y proyectos de la Unidad 2 del bootcamp de desarrollo web. Se enfoca en los fundamentos de CSS y la creación de layouts modernos.
 
 ---
 
-## Instalación
+## Contenido y Temas Cubiertos
 
-Para ejecutar este proyecto localmente, sigue estos pasos:
-
-1.  Clona el repositorio desde GitHub.
-2.  Abre el archivo `index.html` en tu navegador web.
+* **Fundamentos de JavaScript** 
+* **Layouts Modernos:** Ejercicios prácticos con **Bucles** y **Funciones** para organizar elementos en la página.
+* **Proyectos:** Mejora del proyecto de la unidad 1
 
 ---
 
 ## Tecnologías Utilizadas
 
-* **HTML5:** Estructura de la página.
-* **CSS3:** Estilos y diseño.
-* **JavaScript:** Interactividad (opcional).
+* **HTML:** Estructura de la página.
+* **CSS:** Estilos y diseño.
+* **JavaScript:** Interactividad.
 
 ---
 
@@ -26,3 +25,4 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 **Kiara Sandoval**
 
 * Perfil de GitHub: [https://github.com/tu-usuario](https://github.com/tu-usuario)
+
