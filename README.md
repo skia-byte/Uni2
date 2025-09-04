@@ -24,5 +24,5 @@ Este repositorio contiene los ejercicios y proyectos de la Unidad 2 del bootcamp
 
 **Kiara Sandoval**
 
-* Perfil de GitHub: [https://github.com/tu-usuario](https://github.com/tu-usuario)
+
 
